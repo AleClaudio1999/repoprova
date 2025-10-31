@@ -1,3 +1,0 @@
-Prima linea di codice
-Seconda linea di codice (fatta da github)
-Terza linea di codice (fatta nel branch adatto)
